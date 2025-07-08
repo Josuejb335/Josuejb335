@@ -12,6 +12,5 @@ Welcome to my GitHub profile!
 ## More Info
 
 - I’m currently focusing on my studies and don’t have any specific projects to showcase yet, but stay tuned!
-- References or additional information can be added later.
 
 Thanks for stopping by! 😊
